@@ -1,6 +1,5 @@
 The needed modules:
 - Multiplication(in1,in2,out)
-- Addition(in1,in2,out)
 - S-box(in,out)
 - SubBytes(in,out)
 - ShiftRows(in,out)
