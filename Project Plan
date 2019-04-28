@@ -1,8 +1,7 @@
 The required modules:
-- Multiplication(in1,in2,out)
 ✔ S-box(in,out)
 ✔ SubBytes(in,out)      
-- ShiftRows(in,out)
+- ShiftRows(in,out) 
 - MixColumns(in,out)
 ✔ KeyExpansion(key,roundno,output)     // https://en.wikipedia.org/wiki/Rijndael_key_schedule
 
