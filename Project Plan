@@ -4,5 +4,5 @@ The required modules:
 ✔ SubBytes(in,out)      
 - ShiftRows(in,out)
 - MixColumns(in,out)
-- KeyExpansion(key,roundno,output)  #Hazem    // https://en.wikipedia.org/wiki/Rijndael_key_schedule
+✔ KeyExpansion(key,roundno,output)     // https://en.wikipedia.org/wiki/Rijndael_key_schedule
 
